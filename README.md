@@ -12,3 +12,8 @@ This is reminder of the commands we learned in class so far
 * git pull origin branchname -> getting latest changes from remote repo.
 * git log -> displays commited history, it let us filter it and search specific changes
 * git push -u -> to push changes from any local branch
+* git restore --stage file-name -> bringing back staged file
+* git reset -> get the copy of last staged
+* git branch -d branch name -> to delete specific branch name if it was merged
+* git brancg -D branch name-> to dealet the whole 
+* git diff frontend main, -> to see the diffrence b/n directories 
