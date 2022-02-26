@@ -12,3 +12,7 @@ This is reminder of the commands we learned in class so far
 * git pull origin branchname -> getting latest changes from remote repo.
 * git log -> displays commited history, it let us filter it and search specific changes
 * git push -u -> to push changes from any local branch
+* git restore --stage file-name -> to restore staged file from local
+* git restore "file name" -> replace edited or deleted file to its original
+* git branch -d branch name ->to delete specific branch if it has merg
+* git branch -D branch name -> to delet all
