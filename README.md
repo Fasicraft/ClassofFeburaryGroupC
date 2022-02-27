@@ -15,5 +15,5 @@ This is reminder of the commands we learned in class so far
 * git restore --stage file-name -> bringing back staged file
 * git reset -> get the copy of last staged
 * git branch -d branch name -> to delete specific branch name if it was merged
-* git brancg -D branch name-> to dealet the whole 
+* git branching -D branch name-> to dealet the whole 
 * git diff frontend main, -> to see the diffrence b/n directories 
